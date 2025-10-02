@@ -1,0 +1,27 @@
+# Carpetas de entorno virtual
+venv/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configuración de IDE
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# archivos de machine learning 
+Examen_Saber_11_20212.txt
+Examen_Saber_11_20211.txt
+
+# Ignorar modelos
+*.pkl
