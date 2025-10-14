@@ -1,6 +1,8 @@
 # Carpetas de entorno virtual
 venv/
 .venv/
+.venv_python310/
+
 
 # Archivos de Python
 __pycache__/
