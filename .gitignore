@@ -27,3 +27,6 @@ Examen_Saber_11_20211.txt
 
 # Ignorar modelos
 *.pkl
+
+# Ignorar imagenes
+Inteligencia_Artificial_Uni/ParcialB-IA/images
